@@ -14,7 +14,7 @@ spec:
   spec:
     containers:
       - name: auth
-        image: sakti7725/auth
+        image: sakti772589/auth
 ---
 apiVersion: v1
 kind: Service
